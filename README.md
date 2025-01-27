@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @Aakash336
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Pyhton & c++
-- 📫 How to reach me **Email:** realaakash123@gmail.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: Did you know? Introverts often excel at deep concentration and independent work – perfect for coding!
+Hi, I’m Aakash!
 
-<!---
-Aakash336/Aakash336 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I recently completed my 12th grade and am thrilled to embark on a journey into the world of technology, coding, and development. I’m passionate about acquiring new skills, solving complex problems, and creating impactful projects.
+
+Feel free to connect with me at realaakash123@gmail.com. I’m excited about the prospect of growing my skills and contributing to exciting projects.
