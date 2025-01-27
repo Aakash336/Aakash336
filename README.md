@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aakash336
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Pyhton & c++
-- 📫 How to reach me **Email:** thisisaakash9@gmail.com
+- 📫 How to reach me **Email:** realaakash123@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Did you know? Introverts often excel at deep concentration and independent work – perfect for coding!
 
